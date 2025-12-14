@@ -18,12 +18,12 @@ I am following **Striver’s A2Z DSA Sheet** and solving problems step-by-step.
 
 ## Folder Structure
 
-arrays/
-strings/
-searching/
-recursion/
-hashing/
-stack/
-linkedlist/
-trees/
+-arrays/
+-strings/
+-searching/
+-recursion/
+-hashing/
+-stack/
+-linkedlist/
+-trees/
 
